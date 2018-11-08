@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 56FA-3010
+
+ Directory of C:\Users\Harish PC\Desktop\My Git Project
+
+11/08/2018  02:09 PM    <DIR>          .
+11/08/2018  02:09 PM    <DIR>          ..
+11/08/2018  02:09 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  443,081,015,296 bytes free
